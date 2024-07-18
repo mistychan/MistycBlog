@@ -1,0 +1,4 @@
+[submodule "misty-blog/themes/blowfish"]
+	path = misty-blog/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
