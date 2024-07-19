@@ -16,7 +16,7 @@
   weight = 1
 
 [[main]]
-  name = "BookNotes"
+  name = "Book Note"
   pageRef = "/books"
   weight = 2
 
